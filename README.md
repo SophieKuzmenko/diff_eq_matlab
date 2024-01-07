@@ -24,4 +24,5 @@ using Butcher's table:<br />
 ||$`\boldsymbol{w_1}`$|$`\boldsymbol{w_2}`$|$`\boldsymbol{w_3}`$|$`\boldsymbol{w_4}`$|
 || 1/6| 2/3 | 1/6|<br /> <br />
 
-We take that $`\boldsymbol{y}_n=[y_1(t_n),y_2(t_n)]^T`$ and $`\boldsymbol{f}(t_n, \boldsymbol{y}_n)`$ is defined as $`\frac{\partial{y(t)}}{\partial{t}}\rvert_{t=t_n}=\boldsymbol{f}(t_n, \boldsymbol{y}_n)`$
+It is taken that $`\boldsymbol{y}_n=[y_1(t_n),y_2(t_n)]^T`$ and $`\boldsymbol{f}(t_n, \boldsymbol{y}_n)`$ is defined as $`\frac{\partial{y(t)}}{\partial{t}}\rvert_{t=t_n}=\boldsymbol{f}(t_n, \boldsymbol{y}_n)`$ <br /> <br />
+MORE DETAILED DESCRIPTION AND DISCUSSION OF THE RESULTS ARE PROVIDED (IN POLISH) IN THE FILE Raport_Project1.pdf
