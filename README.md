@@ -1,4 +1,4 @@
-This is one of my university projects<br /> Experimenting with different ways to solve the following system of differential equations<br /> <br /> 
+This is one of my university projects<br /> <br /> Experimenting with different ways to solve the following system of differential equations<br /> <br /> 
 $`\begin{cases}
 \frac{\partial y_1}{\partial t}= \frac{-26}{3}y_1(t) - \frac{10}{3}y_2(t) +x (t)\\
 \frac{\partial y_2}{\partial t}= \frac{10}{3}y_1(t) - \frac{1}{3}y_2(t) +x (t)\\
